@@ -1,4 +1,4 @@
-package main
+package main // Tugas GIT Wawasan Global Alexandria Saputra
 
 import (
 	"fmt"
